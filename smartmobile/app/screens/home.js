@@ -1,5 +1,6 @@
 import React from 'react';
 import { StyleSheet,SafeAreaView, Dimensions, ScrollView, StatusBar } from "react-native";
+import { Block, theme, Text } from "galio-framework";
 
 const { width } = Dimensions.get("screen");
 
