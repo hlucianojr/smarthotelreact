@@ -1,0 +1,12 @@
+{
+  "name": "SmartMobileBare",
+  "displayName": "SmartMobileBare",
+  "expo": {
+    "name": "SmartMobileBare",
+    "slug": "SmartMobileBare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
