@@ -1,0 +1,22 @@
+
+cd projects
+cd smarthotelreact
+cd SmartMobileBare
+
+npx react-native run-ios
+
+ pod install
+
+ yarn ios
+
+
+npm uninstall react-navigation
+
+npm install react-navigation
+npm install react-navigation/stack
+
+ <View style={styles.container}>
+      <Text>Hector is the man1111,</Text>
+      <StatusBar style="auto" />
+      <Image source={require("./app/assets/hero_image_room.png")} />
+    </View>
